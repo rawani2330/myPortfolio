@@ -414,7 +414,10 @@ color: darkgrey;
         
     }
     .hiring{
+        display: flex;
+        justify-content: space-between;
         margin-left: -18rem;
+        gap: 2rem;
     }
     .socialmedia{
      margin-left: 12rem;
