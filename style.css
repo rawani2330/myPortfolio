@@ -575,7 +575,7 @@ color: darkgrey;
             background-color: rgb(134, 82, 30);
         }
     section .rectangle{
-        margin-left: 0.2rem;
+        margin-left: -0.42rem;
     }
     .intro{
         margin-left: -20rem;
