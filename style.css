@@ -79,6 +79,10 @@ section .intro{
    color: white;
    font-weight: lighter;
    font-size: 40px;
+        background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+     background-clip: padding-box;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 
 }
 
