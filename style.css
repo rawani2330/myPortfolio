@@ -72,10 +72,7 @@ section .intro{
     padding-left: 22rem;
     margin-top: 6rem;
     font-size: xx-large;
-        background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
-     background-clip: padding-box;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+        
 }
 
 .intro h2 {
